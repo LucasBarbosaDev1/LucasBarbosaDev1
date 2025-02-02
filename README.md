@@ -5,6 +5,8 @@
 [![Wahtsapp Badge](https://img.shields.io/badge/-WhatsApp-4C27DC?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5585987692718)](https://wa.me/5585987692718)
 
 ## Meu nome é Lucas Barbosa
+Sou desenvolvedor frontend apaixonado por criar interfaces de usuário intuitivas e de alta qualidade. Possuo experiência em desenvolvimento de projetos web freelances e pessoais responsivos utilizando HTML, CSS, Typescript e Angular. Dedicado a entregar soluções eficientes e inovadoras, com foco na qualidade do produto.
+
 ( HTML | CSS | SASS | Bootstrap | TailwindCSS | Javascript | Typescript | Angular )
 
 - 👩‍💻 Desenvolvedor Front-end Freelancer
